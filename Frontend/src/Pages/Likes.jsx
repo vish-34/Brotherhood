@@ -1,4 +1,4 @@
-import Navbar from "../Components/Navbar.jsx";
+import Navbar from "../components/Navbar.jsx";
 import { useLike } from "../context/LikeContext.jsx";
 
 export default function Likes() {
