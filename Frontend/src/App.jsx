@@ -6,7 +6,7 @@ import Collection from './Pages/Collection.jsx'
 import Cart from "./Pages/Cart.jsx";
 import Likes from "./Pages/Likes.jsx";
 import Auth from "./Pages/Auth.jsx";
-import PaymentSuccess from "./pages/PaymentSuccess";
+import PaymentSuccess from "./Pages/PaymentSuccess.jsx";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
